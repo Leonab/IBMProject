@@ -1,2 +1,2 @@
 ### IBMProjet ###
-Converting the datastore to something else.
+Switching from jQuery to AngularJS.
